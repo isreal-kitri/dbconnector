@@ -68,7 +68,7 @@ public class DBConnector {
                     " VALUES (?, ? ,? ,? ,? ,? ,? ,? ,?) ");
             PreparedStatement psmt = conn.prepareStatement(sql.toString());
 
-            for(int i = 0; i<15; i++) {
+            for(int i = 0; i<16; i++) {
                 psmt.setInt(1, 1);
                 psmt.setString(2, "test");
                 psmt.setString(3, "test");
