@@ -69,15 +69,15 @@ public class DBConnector {
             PreparedStatement psmt = conn.prepareStatement(sql.toString());
 
             for(int i = 0; i<16; i++) {
-                psmt.setInt(1, 1);
-                psmt.setString(2, "test");
-                psmt.setString(3, "test");
-                psmt.setFloat(4, 0);
-                psmt.setFloat(5, 0);
-                psmt.setFloat(6, 0);
-                psmt.setFloat(7, 0);
-                psmt.setFloat(8, 0);
-                psmt.setFloat(9, 0);
+                psmt.setInt(1,i);
+                psmt.setString(2, "");
+                psmt.setString(3, "");
+                psmt.setFloat(4, i);
+                psmt.setFloat(5, i);
+                psmt.setFloat(6, i);
+                psmt.setFloat(7, i);
+                psmt.setFloat(8, i);
+                psmt.setFloat(9, i);
                 psmt.addBatch();
                 psmt.clearParameters();
             }
