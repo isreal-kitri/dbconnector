@@ -15,7 +15,7 @@ public class DBConnector {
 
     public static void main(String[] args) {
 
-
+        System.out.println("깃허브 커밋 테스트");
 
         // 1.mySQL 데이터베이스 JDBC 드라이버를 로딩한다
 
