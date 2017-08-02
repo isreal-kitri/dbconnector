@@ -51,9 +51,11 @@ public class XMLParserService {
                 } catch (NumberFormatException ne) {}
             }
 
-            for (Weather e : parsingResult) {
-                System.out.println(e);
-            }
+//            for (Weather e : parsingResult) {
+//                System.out.println(e);
+//            }
+
+            System.out.println("파싱 끝!!!");
 
         } catch (Exception e) {
             e.printStackTrace();

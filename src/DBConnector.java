@@ -38,7 +38,7 @@ public class DBConnector {
 
         // 즉, Connection 객체를 만든다.
 
-        String dburl = "jdbc:mysql://localhost:3306/isreal?useUnicode=true&amp;characterEncoding=utf8";
+        String dburl = "jdbc:mysql://localhost:3306/isreal";
 
         String username = "root";
 
@@ -57,8 +57,8 @@ public class DBConnector {
             //3. SQL문을 DB로 전달한다.(열 이름과 삽입 값을 모두 지정)
 
             for (Weather e : weatherList) {
-                StringBuffer sql = new StringBuffer(" INSERT INTO Namwon" +
-                        " (Namwon_location_code," +
+                StringBuffer sql = new StringBuffer(" INSERT INTO namwon" +
+                        " (namwon_location_code," +
                         " location_engname," +
                         " date," +
                         " temp_avg," +
