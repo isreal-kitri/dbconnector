@@ -84,8 +84,9 @@ public class DBConnector {
 
                 System.out.println("insert ok..");
 
-                conn.close();
+
             }
+            conn.close();
 //            for(int i = 0; i<16; i++) {
 //                psmt.setInt(1,i);
 //                psmt.setString(2, "");
