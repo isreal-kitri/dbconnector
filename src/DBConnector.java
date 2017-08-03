@@ -38,7 +38,7 @@ public class DBConnector {
 
         // 즉, Connection 객체를 만든다.
 
-        String dburl = "jdbc:mysql://localhost:3306/isreal";
+        String dburl = "jdbc:mysql://localhost:3306/isreal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
 
         String username = "root";
 
