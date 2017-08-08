@@ -1,5 +1,5 @@
 import model.Weather;
-import saxparsing.XMLParserService;
+import saxparsing.XMLParserService_weather;
 
 import java.sql.Connection;
 
@@ -11,7 +11,7 @@ import java.sql.SQLException;
 import java.util.List;
 
 
-public class DBConnector {
+public class DBConnector_weather {
 
 
 
@@ -32,7 +32,7 @@ public class DBConnector {
         }
 
         //파싱된 데이터 호출
-        List<Weather> weatherList = new XMLParserService().XMLParserSAX();
+        List<Weather> weatherList = new XMLParserService_weather().XMLParserSAX();
 
         // 2.데이터베이스와 연결을 수행한다.
 
@@ -40,7 +40,7 @@ public class DBConnector {
 
         String dburl = "jdbc:mysql://localhost:3306/isreal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
 
-        String username = "root";
+        String username = "admin";
 
         String password = "kitri";
 
