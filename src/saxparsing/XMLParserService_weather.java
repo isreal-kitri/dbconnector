@@ -13,7 +13,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class XMLParserService {
+public class XMLParserService_weather {
 
     public List<Weather> XMLParserSAX() {
 
@@ -24,9 +24,9 @@ public class XMLParserService {
         try {
             SAXParser saxParser = factory.newSAXParser();
 
-            MyHandler handler = new MyHandler();
+            MyHandler_weather handler = new MyHandler_weather();
 
-            File file = new File("src\\daily-weather.xml");
+            File file = new File("src\\model\\parsingList\\weather\\yongdeok\\2017_06.xml");
             //File file = new File("C:\\Users\\danawacomputer\\IdeaProjects\\dbconnector\\src\\daily-weather.xml");
 
             InputStream inputStream= new FileInputStream(file);
@@ -44,9 +44,9 @@ public class XMLParserService {
 
                 try {
                     if (Integer.parseInt(e.getDate()) < 10) {
-                        e.setDate("2016-09-0" + e.getDate());
+                        e.setDate("2017-06-0" + e.getDate());
                     } else if (Integer.parseInt(e.getDate()) >= 10) {
-                        e.setDate("2016-09-" + e.getDate());
+                        e.setDate("2017-06-" + e.getDate());
                     } else {}
                 } catch (NumberFormatException ne) {}
             }
