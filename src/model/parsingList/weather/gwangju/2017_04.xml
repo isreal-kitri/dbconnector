@@ -1,0 +1,3309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--기상월보 : 일요약자료-->
+<stndays>
+    <stn_id>156</stn_id>
+    <stn_ko>광주</stn_ko>
+    <stn_en>
+        <![CDATA[
+Gwangju
+]]>
+    </stn_en>
+    <info>
+        <tm>
+            <![CDATA[
+1
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1016.6
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+9.3
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+15.1
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+6.3
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+3.4
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+1.8
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+70
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+34
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.5
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+3.6
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NNE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+4.6
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+8.4
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+20.35
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+2
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1019.8
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+9.4
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+16.4
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+3.5
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+-0.5
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+-1.3
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+59
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+17
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.5
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NNW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+10.4
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+23.44
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+3
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1024.2
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+11.8
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+21.3
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+3.6
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+-1.8
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+-1.6
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+47
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+14
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.2
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+2.8
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+W
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+11.4
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+24.49
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+4
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1024.0
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+14.8
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+23.9
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+6.4
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+0.6
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+0.9
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+41
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+21
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.1
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.8
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+4.3
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+10.2
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+21.73
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+5
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1017.4
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.0
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+16.2
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+12.5
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+12.5
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+10.2
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+87
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+28
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.4
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+7.4
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+10.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+0.0
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+3.86
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+25.9
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+6
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1012.9
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+14.3
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+16.2
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+11.1
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+14.0
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+6.2
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+98
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+95
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.4
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+7.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+9.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+0.0
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+3.43
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+3.1
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+7
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1013.6
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.3
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+23.9
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.9
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+10.5
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+5.2
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+76
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+50
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.4
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+5.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+6.5
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+8.6
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+21.47
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+8
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1011.9
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+16.8
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+25.8
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+10.7
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+10.2
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+5.8
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+69
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+38
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.3
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WNW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+4.8
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+10.3
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+24.09
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+9
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1012.8
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.9
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+24.9
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+10.1
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+9.4
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+8.6
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+68
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+39
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.9
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+6.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+6.8
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+7.2
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+20.81
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.0
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+10
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1009.8
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+16.6
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+23.7
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+11.2
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+3.7
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+8.0
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+45
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+25
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+3.1
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+6.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+7.9
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+5.8
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+20.37
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.2
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+11
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1008.2
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+12.5
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+18.6
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.7
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+6.3
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+6.7
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+70
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+45
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.1
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+6.0
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+5.8
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+8.5
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+21.71
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+11.0
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+12
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1016.1
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+13.2
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+18.7
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.4
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+-8.5
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+2.4
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+24
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+9
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.4
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+5.6
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+5.1
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+10.6
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+23.76
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+13
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1018.9
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+13.7
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+21.1
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+6.8
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+2.1
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+0.4
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+46
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+29
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.1
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+5.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.3
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+11.2
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+23.03
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+14
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1014.7
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.6
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+21.2
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.9
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+6.8
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+1.9
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+57
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+39
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+3.3
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+10.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+5.4
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+8.1
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+17.90
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.0
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+15
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1014.7
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+18.8
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+27.0
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+12.3
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+11.4
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+9.9
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+67
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+30
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.2
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+3.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+4.6
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+10.9
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+23.20
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.7
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+16
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1014.2
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+20.3
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+30.4
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+12.2
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+8.8
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+7.9
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+56
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+16
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.4
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.8
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+5.6
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+9.2
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+24.94
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+17
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1001.2
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+16.0
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+19.0
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+12.0
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+14.2
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+7.9
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+90
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+48
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.5
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.8
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+7.5
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+0.7
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+2.97
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+10.7
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+18
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1002.2
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+14.0
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+22.2
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+10.3
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+10.0
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+5.1
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+78
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+55
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.4
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+7.3
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+5.5
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+5.1
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+16.74
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.0
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+19
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1011.7
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+14.1
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+19.8
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+9.4
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+0.8
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+3.1
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+43
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+24
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.5
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+3.6
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WNW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+1.4
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+11.9
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+26.50
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+20
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1012.3
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+12.6
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+18.1
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+10.2
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+3.9
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+5.1
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+60
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+22
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.3
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+5.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+9.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+0.7
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+7.07
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.8
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+21
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1011.0
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+14.6
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+20.9
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.8
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+4.9
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+5.5
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+57
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+26
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.8
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+3.6
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NNE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+7.8
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+8.7
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+22.50
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+22
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1013.3
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+14.5
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+21.0
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.9
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+5.4
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+3.8
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+57
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+25
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.2
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+2.9
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WNW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+1.9
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+10.6
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+23.21
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.0
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+23
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1018.0
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.4
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+24.0
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.3
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+6.9
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+2.9
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+61
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+36
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.6
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.6
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.5
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+12.1
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+26.33
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+24
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1019.3
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+16.7
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+24.3
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.7
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+5.1
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+2.0
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+51
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+19
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.2
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+6.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.9
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+11.9
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+28.18
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+25
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1018.9
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+18.4
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+23.3
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+13.4
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+12.4
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+7.7
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+71
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+41
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.6
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.2
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+8.1
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+5.1
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+17.19
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+7.5
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+26
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1015.9
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.6
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+21.4
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+11.2
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+6.0
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+5.1
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+61
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+24
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.9
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+3.8
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NNE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+6.9
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+6.5
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+19.64
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+0.7
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+27
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1013.6
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+14.0
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+19.3
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.8
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+-0.1
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+3.5
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+41
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+18
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.8
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.9
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+NNE
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+2.3
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+10.7
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+26.93
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+28
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1008.8
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.8
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+24.5
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.0
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+4.5
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+2.3
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+52
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+15
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.4
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+6.7
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+W
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+12.2
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+27.48
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+29
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1008.8
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+18.6
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+27.5
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+10.4
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+4.5
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+4.7
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+47
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+13
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.7
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+4.8
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+12.2
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+26.94
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+30
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1010.1
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+20.1
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+27.5
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+14.3
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+10.3
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+8.1
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+55
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+37
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+2.9
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+7.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+0.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+11.5
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+24.55
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+null
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+상순
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1016.3
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+13.9
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+20.7
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+8.4
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+6.2
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+4.4
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+66
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+36
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.8
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+7.4
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+5.4
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+72.3
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+184.04
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+29.2
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+중순
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1011.4
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.1
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+21.6
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+9.9
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+5.6
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+5.0
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+59
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+32
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.9
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+10.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+5.0
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+76.9
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+187.82
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+23.2
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+하순
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1013.8
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+16.4
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+23.4
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+10.1
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+6.0
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+4.6
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+55
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+25
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.9
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+7.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+SW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+2.8
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+101.5
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+242.95
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+8.2
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+    <info>
+        <tm>
+            <![CDATA[
+null
+]]>
+        </tm>
+        <ps>
+            <![CDATA[
+1013.8
+]]>
+        </ps>
+        <ta>
+            <![CDATA[
+15.1
+]]>
+        </ta>
+        <ta_max>
+            <![CDATA[
+21.9
+]]>
+        </ta_max>
+        <ta_min>
+            <![CDATA[
+9.5
+]]>
+        </ta_min>
+        <td>
+            <![CDATA[
+5.9
+]]>
+        </td>
+        <tg_min>
+            <![CDATA[
+4.7
+]]>
+        </tg_min>
+        <hm>
+            <![CDATA[
+60
+]]>
+        </hm>
+        <hm_min>
+            <![CDATA[
+31
+]]>
+        </hm_min>
+        <ev_s>
+            <![CDATA[
+null
+]]>
+        </ev_s>
+        <ws>
+            <![CDATA[
+1.9
+]]>
+        </ws>
+        <ws_max>
+            <![CDATA[
+10.1
+]]>
+        </ws_max>
+        <wd_max>
+            <![CDATA[
+WSW
+]]>
+        </wd_max>
+        <ca_tot>
+            <![CDATA[
+4.4
+]]>
+        </ca_tot>
+        <ss_day>
+            <![CDATA[
+250.7
+]]>
+        </ss_day>
+        <si_day>
+            <![CDATA[
+614.81
+]]>
+        </si_day>
+        <rn_day>
+            <![CDATA[
+60.6
+]]>
+        </rn_day>
+        <sd_new>
+            <![CDATA[
+null
+]]>
+        </sd_new>
+        <sd_max>
+            <![CDATA[
+null
+]]>
+        </sd_max>
+    </info>
+</stndays>

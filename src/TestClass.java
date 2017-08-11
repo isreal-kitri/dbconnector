@@ -1,5 +1,5 @@
 import model.Weather;
-import saxparsing.XMLParserService;
+import saxparsing.XMLParserService_weather;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import java.util.List;
 public class TestClass {
     public static void main(String[] args) {
 
-        List<Weather> weatherList = new XMLParserService().XMLParserSAX();
+        List<Weather> weatherList = new XMLParserService_weather().XMLParserSAX();
 
         for (Weather e : weatherList) {
             System.out.println(e);

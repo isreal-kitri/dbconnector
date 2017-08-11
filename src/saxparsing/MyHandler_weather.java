@@ -12,7 +12,7 @@ import org.xml.sax.helpers.DefaultHandler;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MyHandler extends DefaultHandler {
+public class MyHandler_weather extends DefaultHandler {
 
     private List<Weather> weatherList = null;
     private Weather weather = null;
@@ -89,6 +89,13 @@ public class MyHandler extends DefaultHandler {
 
         tempString = new String(ch, start, length).trim();
 
+        double doubleStr = 0;
+        try {
+            doubleStr = Double.parseDouble(tempString);
+        } catch (NumberFormatException e) {
+
+        }
+
         if (bstnid) {
             System.out.println("지역코드: " + tempString);
             weatherLoc.setLocNumber(Integer.parseInt(tempString));
@@ -117,62 +124,69 @@ public class MyHandler extends DefaultHandler {
             if (tempString.equals("")) {
                 bta = true;
             } else {
-                weather.setAvgTemp(Double.parseDouble(tempString));
-                System.out.println(weather);
-                bta = false;
-            }
-        } else if (btamax) {
-            System.out.println("최고기온 : " + tempString);
-            if (tempString.equals("")) {
-                btamax = true;
-            } else {
-                weather.setMaxTemp(Double.parseDouble(tempString));
-                System.out.println(weather);
-                btamax = false;
-            }
-        } else if (btamin) {
-            System.out.println("최소기온 : " + tempString);
-            if (tempString.equals("")) {
-                btamin = true;
-            } else {
-                weather.setMinTemp(Double.parseDouble(tempString));
-                System.out.println(weather);
-                btamin = false;
-            }
-        } else if (bhm) {
-            System.out.println("평균상대습도 : " + tempString);
-            if (tempString.equals("")) {
-                bhm = true;
-            } else {
-                weather.setAvgHumidity(Double.parseDouble(tempString));
-                System.out.println(weather);
-                bhm = false;
-            }
-        } else if (bws) {
-            System.out.println("평균풍속 : " + tempString);
-            if (tempString.equals("")) {
-                bws = true;
-            } else {
-                weather.setAvgWind(Double.parseDouble(tempString));
-                System.out.println(weather);
-                bws = false;
-            }
-        } else if (brnday) {
-            System.out.println("강수량 : " + tempString);
-            if (tempString.equals("")) {
-                brnday = true;
-            } else {
                 if (tempString.equals("null")) {
-                    weather.setAvgRain(0);
+                    weather.setAvgTemp(0);
                     System.out.println(weather);
-                    brnday = false;
+                    bta = false;
                 } else {
-                    weather.setAvgRain(Double.parseDouble(tempString));
+                    weather.setAvgTemp(doubleStr);
                     System.out.println(weather);
-                    brnday = false;
+                    bta = false;
                 }
             }
-        }
-    }//characters
+            if (btamax) {
+                System.out.println("최고기온 : " + tempString);
+                if (tempString.equals("")) {
+                    btamax = true;
+                } else {
+                    weather.setMaxTemp(doubleStr);
+                    System.out.println(weather);
+                    btamax = false;
+                }
+            } else if (btamin) {
+                System.out.println("최소기온 : " + tempString);
+                if (tempString.equals("")) {
+                    btamin = true;
+                } else {
+                    weather.setMinTemp(doubleStr);
+                    System.out.println(weather);
+                    btamin = false;
+                }
+            } else if (bhm) {
+                System.out.println("평균상대습도 : " + tempString);
+                if (tempString.equals("")) {
+                    bhm = true;
+                } else {
+                    weather.setAvgHumidity(doubleStr);
+                    System.out.println(weather);
+                    bhm = false;
+                }
+            } else if (bws) {
+                System.out.println("평균풍속 : " + tempString);
+                if (tempString.equals("")) {
+                    bws = true;
+                } else {
+                    weather.setAvgWind(doubleStr);
+                    System.out.println(weather);
+                    bws = false;
+                }
+            } else if (brnday) {
+                System.out.println("강수량 : " + tempString);
+                if (tempString.equals("")) {
+                    brnday = true;
+                } else {
+                    if (tempString.equals("null")) {
+                        weather.setAvgRain(0);
+                        System.out.println(weather);
+                        brnday = false;
+                    } else {
+                        weather.setAvgRain(doubleStr);
+                        System.out.println(weather);
+                        brnday = false;
+                    }
+                }
+            }
+        }//characters
 
+    }
 }

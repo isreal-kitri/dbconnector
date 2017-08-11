@@ -38,8 +38,9 @@ public class DBConnector_weather {
 
         // 즉, Connection 객체를 만든다.
 
-        String dburl = "jdbc:mysql://localhost:3306/isreal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+        //String dburl = "jdbc:mysql://localhost:3306/isreal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
 
+        String dburl = "jdbc:mysql://192.168.0.23:3306/isreal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
         String username = "admin";
 
         String password = "kitri";
@@ -57,8 +58,8 @@ public class DBConnector_weather {
             //3. SQL문을 DB로 전달한다.(열 이름과 삽입 값을 모두 지정)
 
             for (Weather e : weatherList) {
-                StringBuffer sql = new StringBuffer(" INSERT INTO namwon" +
-                        " (namwon_location_code," +
+                StringBuffer sql = new StringBuffer(" INSERT INTO name" +
+                        " (name_location_code," +
                         " location_engname," +
                         " date," +
                         " temp_avg," +
@@ -68,6 +69,7 @@ public class DBConnector_weather {
                         " ws_avg," +
                         " rainfall)" +
                         " VALUES (?, ? ,? ,? ,? ,? ,? ,? ,?) ");
+
                 PreparedStatement psmt = conn.prepareStatement(sql.toString());
 
                 psmt.setInt(1, e.getLocNumber());

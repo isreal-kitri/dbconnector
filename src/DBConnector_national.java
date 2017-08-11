@@ -13,7 +13,7 @@ public class DBConnector_national {
 
         try {
 
-            Class.forName("com.mysql.jdbc.Driver");
+            Class.forName("com.mysql.cj.jdbc.Driver");
 
             System.out.println("driver loading ok..");
 
@@ -30,7 +30,7 @@ public class DBConnector_national {
 
         // 즉, Connection 객체를 만든다.
 
-        String dburl = "jdbc:mysql://localhost:3306/isreal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+        String dburl = "jdbc:mysql://192.168.0.23:3306/isreal?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
 
         String username = "admin";
 
@@ -49,8 +49,8 @@ public class DBConnector_national {
             //3. SQL문을 DB로 전달한다.(열 이름과 삽입 값을 모두 지정)
 
             for (NationalPark e : nationalParkList) {
-                StringBuffer sql = new StringBuffer(" INSERT INTO naejangsan" +
-                        " (najangsan_code," +
+                StringBuffer sql = new StringBuffer(" INSERT INTO mtname" +
+                        " (mtname_code," +
                         " mount_name," +
                         " location," +
                         " altitude," +
@@ -60,7 +60,7 @@ public class DBConnector_national {
                         " VALUES (?, ? ,? ,? ,? ,? ,?) ");
                 PreparedStatement psmt = conn.prepareStatement(sql.toString());
 
-                psmt.setInt(1, e.getLocNumber());
+                psmt.setLong(1, e.getLocNumber());
                 psmt.setString(2, e.getLocName());
                 psmt.setString(3, e.getLocation());
                 psmt.setDouble(4, e.getAltitude());

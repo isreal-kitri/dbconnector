@@ -20,7 +20,7 @@ public class XMLParserService_national {
 
             MyHandler_national handler = new MyHandler_national();
 
-            File file = new File("src\\test.xml");
+            File file = new File("src\\model\\parsingList\\nationalPark\\jeonla.xml");
             //File file = new File("C:\\Users\\danawacomputer\\IdeaProjects\\dbconnector\\src\\daily-weather.xml");
 
             InputStream inputStream = new FileInputStream(file);
@@ -30,6 +30,7 @@ public class XMLParserService_national {
             is.setEncoding("UTF-8");
 
             saxParser.parse(is, handler);
+
             System.out.println(handler.getNationalParkList());
 
             parsingResult = handler.getNationalParkList();
